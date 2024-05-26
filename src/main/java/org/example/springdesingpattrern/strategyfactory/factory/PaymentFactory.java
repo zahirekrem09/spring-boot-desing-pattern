@@ -1,4 +1,4 @@
-package org.example.springdesingpattrern.factory;
+package org.example.springdesingpattrern.strategyfactory.factory;
 
 import org.example.springdesingpattrern.dto.PaymentRequest;
 

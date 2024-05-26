@@ -1,7 +1,7 @@
 package org.example.springdesingpattrern.controller;
 
 import org.example.springdesingpattrern.dto.PaymentRequest;
-import org.example.springdesingpattrern.factory.PaymentFactory;
+import org.example.springdesingpattrern.strategyfactory.factory.PaymentFactory;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

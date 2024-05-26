@@ -1,8 +1,8 @@
-package org.example.springdesingpattrern.factory.impl;
+package org.example.springdesingpattrern.strategyfactory.factory.impl;
 
 import org.example.springdesingpattrern.dto.PaymentRequest;
-import org.example.springdesingpattrern.factory.PaymentFactory;
-import org.example.springdesingpattrern.strategy.PaymentStrategy;
+import org.example.springdesingpattrern.strategyfactory.factory.PaymentFactory;
+import org.example.springdesingpattrern.strategyfactory.strategy.PaymentStrategy;
 import org.springframework.stereotype.Component;
 
 import java.util.Map;
